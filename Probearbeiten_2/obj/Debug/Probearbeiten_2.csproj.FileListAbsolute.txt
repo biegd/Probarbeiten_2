@@ -1,0 +1,7 @@
+C:\Users\Sfefano\source\repos\Probearbeiten_2\Probearbeiten_2\bin\Debug\Probearbeiten_2.exe.config
+C:\Users\Sfefano\source\repos\Probearbeiten_2\Probearbeiten_2\bin\Debug\Probearbeiten_2.exe
+C:\Users\Sfefano\source\repos\Probearbeiten_2\Probearbeiten_2\bin\Debug\Probearbeiten_2.pdb
+C:\Users\Sfefano\source\repos\Probearbeiten_2\Probearbeiten_2\obj\Debug\Probearbeiten_2.csproj.AssemblyReference.cache
+C:\Users\Sfefano\source\repos\Probearbeiten_2\Probearbeiten_2\obj\Debug\Probearbeiten_2.csproj.CoreCompileInputs.cache
+C:\Users\Sfefano\source\repos\Probearbeiten_2\Probearbeiten_2\obj\Debug\Probearbeiten_2.exe
+C:\Users\Sfefano\source\repos\Probearbeiten_2\Probearbeiten_2\obj\Debug\Probearbeiten_2.pdb
